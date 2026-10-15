@@ -1,6 +1,8 @@
 # Frontend Mentor - Intro section with dropdown navigation
 
-![Design preview for the Intro section with dropdown navigation coding challenge](preview.jpg)
+## Result preview
+
+![Result preview for the Intro section with dropdown navigation challenge](./preview.jpg)
 
 ## Welcome! 👋
 
