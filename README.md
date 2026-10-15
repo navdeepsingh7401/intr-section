@@ -2,7 +2,7 @@
 
 ## Result preview
 
-![Result preview for the Intro section with dropdown navigation challenge](./preview.jpg)
+![Result preview for the Intro section with dropdown navigation challenge](./images/intro%20section.png)
 
 ## Welcome! 👋
 
